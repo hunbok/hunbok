@@ -60,7 +60,7 @@
 ---
 
 ## 📄 **이력서 & 포트폴리오**  
-**이력서:** [My Resume](https://hunbok.github.io/resume.pdf)  
+**이력서:** [My Resume](https://hunbok.github.io/이헌복_이력서.pdf)  
 **포트폴리오:** [hunbok.github.io](https://hunbok.github.io)  
 
 ---
